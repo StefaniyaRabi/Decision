@@ -1,0 +1,18 @@
+<svg id="inst" xmlns="http://www.w3.org/2000/svg" width="50.002" height="50.002" viewBox="0 0 39 39">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #a5b3af;
+      }
+
+      .cls-2 {
+        font-size: 14px;
+        fill: #fff;
+        font-family: Ubuntu;
+        font-weight: 700;
+      }
+    </style>
+  </defs>
+  <circle id="Ellipse_1_copy" data-name="Ellipse 1 copy" class="cls-1" cx="19.5" cy="19.5" r="19.5"/>
+  <text id="inst-2" data-name="inst" class="cls-2" x="7.429" y="22.811">inst</text>
+</svg>
